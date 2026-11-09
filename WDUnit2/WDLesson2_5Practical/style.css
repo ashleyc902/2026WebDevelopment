@@ -1,6 +1,8 @@
 /* Challenge 8: Change the type of font to Arial for all elements */
 body {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 p{text-align: center;}
+h1{text-align: center;}
+h3{text-align: center;}
 /* Challenge 9: Change the background color for all elements with a class of banner.  Choose a color
                 using rgb( )
 */
